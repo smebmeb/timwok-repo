@@ -1,5 +1,6 @@
 # timwok-repo
 
-Sample repository ng PaScian family.
+Sample repository natin.
 
-Add lang kayo ng anything here. HAHAHAHAHA!
+Add lang kayo ng anything here. Love lots! <3 
+- Catt
