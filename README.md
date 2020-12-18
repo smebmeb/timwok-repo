@@ -1,6 +1,5 @@
 # timwok-repo
 
-Sample repository natin.
+Mema repository for codes and such.
 
-Add lang kayo ng anything here. Love lots! <3 
-- Catt
+Dagdag lang kayo if u want. :))
