@@ -36,7 +36,7 @@ main (void)
 			}
 	}
 		
-	else if (r_code == 1) {
+	else {
 		printf("ACCEPTED");
 	
 	}
