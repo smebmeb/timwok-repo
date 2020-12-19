@@ -26,7 +26,7 @@ main (void)
 		printf("Area: %f", area);	
 	}
 	
-	else if (choice == 'T') {
+	else {
 		printf("Base: ");
 		scanf("%d", &base);
 		
