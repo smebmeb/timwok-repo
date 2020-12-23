@@ -1,0 +1,44 @@
+#include <stdio.h>
+#include <conio.h>
+
+main(void)
+{
+	float base, height, area;
+	char choice;
+	
+	printf("Enter choice: ");
+	scanf("%c",&choice);
+	
+	if (choice == 'R') {
+		
+		printf("Base of Rectangle: ");
+		scanf("%f", &base);
+		
+		printf("Height of Rectangle: ");
+		scanf("%f", &height);
+		
+		area = base * height;
+		
+		printf("Area of Rectangle: %f", area);	
+	}
+	
+		
+	else if (choice == 'T'){
+	
+	
+		printf("Base of Triangle: ");
+		scanf("%f", &base);
+		
+		printf("Height of Triangle: ");
+		scanf("%f", &height);
+		
+		area = 0.5 * base * height;
+		
+		printf("Area of Triangle: %f", area);
+	}
+	else 
+		printf("INVALID");
+		
+		
+	getch();
+}
